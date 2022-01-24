@@ -47,12 +47,12 @@ if (myDate[getindex] == todaydate) {
   
    
     ws.cell("F"+haha+"").value("Y");
-  console.log("My name is Sandip Nandi")
+  console.log("P2P")
 }
 else {
   ws.cell("F"+haha+"").value("N");
 
- console.log("My name is Sandip Nandi and I am working in IBM under R2R");
+ console.log("T2T");
 }
 }
 
